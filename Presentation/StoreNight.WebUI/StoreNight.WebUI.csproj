@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\StoreNight.Application\StoreNight.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\StoreNight.Persistance\StoreNight.Persistance.csproj" />
   </ItemGroup>
 
 </Project>
